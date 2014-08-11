@@ -1,3 +1,5 @@
+PLEASE VISIT NEW GUIDES AT [**NIGHTSCOUT WIKI**](http://www.nightscout.info)
+
 ---
 title: Welcome
 layout: guide
